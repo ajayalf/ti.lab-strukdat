@@ -1,0 +1,6 @@
+Instruksi Ujian Code Runing
+1. Ujian Coding Struktur Data ini adalah menjalankan program linked list
+2. Program ini belum sempurna dan akan menjalankan hasil error.
+3. Tugas kalian adalah menyempurnakan code tersebut sampai bisa menghasilkan output NPM seperti pada gambar (hasil ujian_linkedlist.png)
+4. Jelaskan secara singkat algoritma linked list yang berhasil kalian jalankan.
+5. Jika program belum berhasil berjalan (masih error/tidak sesuai output), kumpulkan code yang telah kalian kerjakan beserta penjelasan singkat mengenai algoritma linked list.
